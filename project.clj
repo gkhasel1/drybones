@@ -13,7 +13,6 @@
                  [cheshire "5.6.3"]
                  [clj-time "0.12.0"]
                  [camel-snake-kebab "0.4.0"]
-                 [com.rpl/specter "0.13.1"]
                  [com.taoensso/timbre "4.7.4"]
                  [cprop "0.1.7"]
                  [http-kit "2.1.18"]
