@@ -1,6 +1,6 @@
-(ns drybones.core-test
+(ns drybones.main-test
   (:require [clojure.test :refer :all]
-            [drybones.core :refer :all]))
+            [drybones.main :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

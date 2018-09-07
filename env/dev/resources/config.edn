@@ -1,0 +1,3 @@
+{:logging    {:format :string
+              :level  :debug}
+ :web-server {:port 8080}}
